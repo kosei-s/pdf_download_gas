@@ -1,0 +1,2 @@
+# pdf_download_gas
+GASでURL先をPDFで保存するスクリプト
